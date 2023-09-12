@@ -97,6 +97,7 @@ function sidebarGuide() {
     },
   ]
 }
+
 function sidebarcollege() {
   return [
     {

@@ -1,4 +1,4 @@
-<style>
+<style> 
     .card {
         width: 260px;
         background: white; 

@@ -66,7 +66,7 @@
 # 🌐 Backend:
 
 Backend, on the other hand, is like the "engine" of a web application. It's behind the scenes and handles all the server-side logic. Here are some key aspects:
-
+ 
 - **Server Logic:** The backend manages data storage, retrieval, and processing. It handles tasks like user authentication, database operations, and business logic.
 
 - **Security:** Backend developers focus on security, protecting data and resources from unauthorized access, and preventing common vulnerabilities like SQL injection and cross-site scripting. 

@@ -6,7 +6,7 @@
 - Then goto the **Bin** folder. Create a file in notepad and paste the **C** program in the file and save it with extension **".C"**.
 - Now open TurboC applicaton and browse to your file and just compile it. :stuck_out_tongue_winking_eye:
 - You got the job done under 10 minutes. :sunglasses:
-:::
+::: 
 ## Linear Search
 
 ```C
